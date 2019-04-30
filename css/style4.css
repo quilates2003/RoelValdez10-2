@@ -1,0 +1,178 @@
+.container1{
+	display: grid;
+	grid-template-columns: 1fr 4fr;
+	grid-gap: 5px;
+}
+
+.menuright{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	grid-gap: 10px;
+	padding: 0px;
+	margin-top: 30px;
+}
+
+.button{
+	background: brown;
+	padding: 20px;
+}
+
+img{
+	margin-left: 40px;
+}
+
+li{
+	list-style: none;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+	text-align: center;
+}
+
+.image1{
+	margin: 15px;
+	background-image: url(../images/12.jpg);
+	background-repeat: no repeat;
+	background-size: cover;
+	background-position: center;
+	border: 3px solid black;
+	width: 1260px;
+	height: 900px;
+}
+
+.image1:hover{
+	background-image: url(../images/11.jpg);
+	background-repeat: no repeat;
+	background-size: cover;
+	background-position: center;
+	width: 1260px;
+	height: 900px;
+}
+
+.image2{
+	margin: 15px;
+	background-image: url(../images/23.jpg);
+	background-repeat: no repeat;
+	background-size: cover;
+	background-position: center;
+	border: 3px solid black;
+	width: 1260px;
+	height: 900px;
+}
+
+.image2:hover{
+	background-image: url(../images/22.jpg);
+	background-repeat: no repeat;
+	background-size: cover;
+	background-position: center;
+	width: 1260px;
+	height: 900px;
+}
+
+.image3{
+	margin: 15px;
+	background-image: url(../images/32.jpg);
+	background-repeat: no repeat;
+	background-size: cover;
+	background-position: center;
+	border: 3px solid black;
+	width: 1260px;
+	height: 900px;
+}
+
+.image3:hover{
+	background-image: url(../images/33.jpg);
+	background-repeat: no repeat;
+	background-size: cover;
+	background-position: center;
+	width: 1260px;
+	height: 900px;
+}
+
+.image4{
+	margin: 15px;
+	background-image: url(../images/43.jpg);
+	background-repeat: no repeat;
+	background-size: cover;
+	background-position: center;
+	border: 3px solid black;
+	width: 1260px;
+	height: 900px;
+}
+
+.image4:hover{
+	background-image: url(../images/44.jpg);
+	background-repeat: no repeat;
+	background-size: cover;
+	background-position: center;
+	width: 1260px;
+	height: 900px;
+}
+
+.image5{
+	margin: 15px;
+	background-image: url(../images/5.jpg);
+	background-repeat: no repeat;
+	background-size: cover;
+	background-position: center;
+	border: 3px solid black;
+	width: 1260px;
+	height: 900px;
+}
+.image5:hover{
+	background-image: url(../images/55.jpg);
+	background-repeat: no repeat;
+	background-size: cover;
+	background-position: center;
+	width: 1260px;
+	height: 900px;
+}
+
+.image6{
+	margin: 15px;
+	background-image: url(../images/6.jpg);
+	background-repeat: no repeat;
+	background-size: cover;
+	background-position: center;
+	border: 3px solid black;
+	width: 1260px;
+	height: 900px;
+}
+
+.image6:hover{
+	background-image: url(../images/66.jpg);
+	background-repeat: no repeat;
+	background-size: cover;
+	background-position: center;
+	width: 1260px;
+	height: 900px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
